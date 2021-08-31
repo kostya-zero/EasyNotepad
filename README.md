@@ -16,7 +16,7 @@ Kostya "zero" - Code and design
 
 # Contacts and links
 
-VK - vk.com/kostya_zer0
+VK - https://vk.com/kostya_zer0
 
 Discord - .zer0#4731
 

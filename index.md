@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to EasyNotepad Official Github page!
 
-You can use the [editor on GitHub](https://github.com/kostya-zero/easy-notepad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EasyNotepad is a modern notepad written on C# with beautifull design!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EasyNotepad currently not open-source, but soon, it will be
 
-### Markdown
+## Features
+- Easy to learn how to use
+- Friendly UI
+- Powered by Noar Library
+- So functionally
+- Integrated Discord Status
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is Noar Library?
+Noar - dynamic library for C# developers. Include methods to work with file system, math, logic and more.
+Noar updating at time and currently in alpha. The functional will increase over time!
 
-```markdown
-Syntax highlighted code block
+Want to download? Noar Library is free to download on GitHub!
 
-# Header 1
-## Header 2
-### Header 3
+Noar GitHub page - https://github.com/kostya-zero/noar-library
 
-- Bulleted
-- List
+## App Information
+- Latest version - 1.01
+- Latest version date - 31.08.21
+- Latest version build - 0089
+- Versions count - 2
 
-1. Numbered
-2. List
+## Links
+Download:
+- EasyNotepad 1.01 - https://github.com/kostya-zero/easy-notepad/releases/tag/1.01
+- EasyNotepad 1.00 - https://github.com/kostya-zero/easy-notepad/releases/tag/1.00
 
-**Bold** and _Italic_ and `Code` text
+## Developers
+List of developers:
+- Kostya "zero" - Code, design and project leader
 
-[Link](url) and ![Image](src)
-```
+## Contacts and support
+If you need support from me you can write me to Discord or VK
+- VK - https://vk.com/kostya_zer0
+- Discord - .zer0#4731
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Ending 
+Thanks everyone who will download EasyNotepad and made review about it!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kostya-zero/easy-notepad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Good luck and have fun!

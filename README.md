@@ -1,23 +1,45 @@
-# Easy Notepad
-Modern notepad written on C# using JetBrains ReSharper
+## Welcome to EasyNotepad Official Github page!
 
-# Version info
+EasyNotepad is a modern notepad written on C# with beautifull design!
 
-Latest version - 1.01
+EasyNotepad currently not open-source, but soon, it will be
 
-Latest build - 0089
+## Features
+- Easy to learn how to use
+- Friendly UI
+- Powered by Noar Library
+- So functionally
+- Integrated Discord Status
 
-Build date 31.08.21
+## What is Noar Library?
+Noar - dynamic library for C# developers. Include methods to work with file system, math, logic and more.
+Noar updating at time and currently in alpha. The functional will increase over time!
 
+Want to download? Noar Library is free to download on GitHub!
 
-# Developers
+Noar GitHub page - https://github.com/kostya-zero/noar-library
 
-Kostya "zero" - Code and design
+## App Information
+- Latest version - 1.01
+- Latest version date - 31.08.21
+- Latest version build - 0089
+- Versions count - 2
 
-# Contacts and links
+## Links
+Download:
+- EasyNotepad 1.01 - https://github.com/kostya-zero/easy-notepad/releases/tag/1.01
+- EasyNotepad 1.00 - https://github.com/kostya-zero/easy-notepad/releases/tag/1.00
 
-VK - https://vk.com/kostya_zer0
+## Developers
+List of developers:
+- Kostya "zero" - Code, design and project leader
 
-Discord - .zer0#4731
+## Contacts and support
+If you need support from me you can write me to Discord or VK
+- VK - https://vk.com/kostya_zer0
+- Discord - .zer0#4731
 
-Latest version link - https://github.com/kostya-zero/easy-notepad/releases/tag/1.01
+## Ending 
+Thanks everyone who will download EasyNotepad and made review about it!
+
+Good luck and have fun!

@@ -42,5 +42,4 @@ If you need support from me you can write me to Discord or VK
 
 ## Ending 
 Thanks everyone who will download EasyNotepad and made review about it!
-
 Good luck and have fun!

@@ -20,10 +20,10 @@ Want to download? Noar Library is free to download on GitHub!
 Noar GitHub page - https://github.com/kostya-zero/noar-library
 
 ## App Information
-- Latest version - 1.01
-- Latest version date - 31.08.21
-- Latest version build - 0089
-- Versions count - 2
+- Latest version - 1.02
+- Latest version date - 01.09.21
+- Latest version build - 0121
+- Versions count - 3
 
 ## Links
 Download:

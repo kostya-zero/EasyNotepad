@@ -28,8 +28,8 @@ Noar GitHub page - https://github.com/kostya-zero/noar-library
 ## Links
 Download:
 - EasyNotepad 1.02 - https://github.com/kostya-zero/EasyNotepad/releases/tag/1.02
-- EasyNotepad 1.01 - https://github.com/kostya-zero/easy-notepad/releases/tag/1.01
-- EasyNotepad 1.00 - https://github.com/kostya-zero/easy-notepad/releases/tag/1.00
+- EasyNotepad 1.01 - https://github.com/kostya-zero/EasyNotepad/releases/tag/1.01
+- EasyNotepad 1.00 - https://github.com/kostya-zero/EasyNotepad/releases/tag/1.00
 
 ## Developers
 List of developers:
